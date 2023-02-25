@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/andilemashala/Microverse-portfolio-project/issues"
   },
-  "homepage": "https://github.com/andilemashala/Microverse-portfolio-project#readme"
+  "homepage": "https://github.com/andilemashala/Microverse-portfolio-project#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
 }
