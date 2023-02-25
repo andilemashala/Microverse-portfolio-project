@@ -10,3 +10,91 @@ body {
   margin-right: auto;
   background-color: #f7f7f9;
 }
+
+.mobile-header {
+  width: 375px;
+  height: 718px;
+  background: #fff;
+  border-radius: 0 0 0 90px;
+}
+
+.app-bar {
+  padding-top: 50px;
+  padding-bottom: 12px;
+  margin-left: 24px;
+  margin-right: 36px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #6070ff;
+}
+
+.menu {
+  margin-top: 10px;
+}
+
+.header-main-content {
+  width: 462px;
+  height: 587.15px;
+  background-image: url('/header-shapes_mobile.png');
+  background-repeat: no-repeat;
+}
+
+.introduction-primary-text {
+  width: 327px;
+  height: 150px;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  color: #172b4d;
+  padding-top: 114px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.introduction-supporting-text {
+  width: 327px;
+  height: 146px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 12px;
+}
+
+.contacts-text {
+  width: 200px;
+  height: 24px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #7f8cff;
+}
+
+.contacts {
+  width: 170.17px;
+  height: 20px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
