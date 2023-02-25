@@ -1,0 +1,12 @@
+body {
+  background-color: gray;
+}
+
+.mobile-main {
+  position: relative;
+  width: 375px;
+  height: 5410px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f7f7f9;
+}
