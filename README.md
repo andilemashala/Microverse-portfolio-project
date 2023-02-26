@@ -19,7 +19,6 @@
 
 # 📖 [Mobile-first-project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Mobile-first-project]** is Microverse Module 1 project for creating mobile view of portfolio website
 
@@ -27,7 +26,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -38,16 +36,12 @@
 </details>
 
 
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
